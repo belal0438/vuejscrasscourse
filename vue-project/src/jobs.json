@@ -83,6 +83,20 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "id": "df42",
+      "title": "Test job",
+      "type": "Full-Time",
+      "location": "Banglore",
+      "description": "these for test job",
+      "salary": "Under $50K",
+      "company": {
+        "name": "Sqadra Media",
+        "description": "Full stack web developer",
+        "contactEmail": "abc@gmail.com",
+        "contactPhone": "987867565"
+      }
     }
   ]
 }
